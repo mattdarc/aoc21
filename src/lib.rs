@@ -1,5 +1,3 @@
-#![feature(portable_simd)]
-
 extern crate aoc_runner;
 
 #[macro_use]
@@ -14,6 +12,7 @@ pub mod day14;
 pub mod day15;
 pub mod day16;
 pub mod day17;
+pub mod day18;
 pub mod day2;
 pub mod day3;
 pub mod day4;
